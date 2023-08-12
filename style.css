@@ -1,0 +1,20 @@
+*{
+        padding: 0;
+        margin: 0;
+}
+.first-section, .image-section, .trivia-section{
+        padding: 10px;
+        margin: 10px;
+}
+.main-heading{
+        border-bottom: 2px solid black;
+}
+
+.para, .read-more-link, .beagle-image{
+        padding-top: 10px;
+}
+
+.beagle-about {
+        margin: 10px;
+        padding: 10px;
+}
